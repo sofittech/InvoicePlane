@@ -3,6 +3,9 @@
   "version": "1.5.9",
   "description": "InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/InvoicePlane/InvoicePlane.git"
